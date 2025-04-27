@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
