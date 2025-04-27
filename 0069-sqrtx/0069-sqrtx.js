@@ -3,10 +3,8 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    var i=0;
 
-    while(i*i <= x){
-        i++
-    }
-    return i-1
+    let result=Math.sqrt(x);
+    return Math.floor(result)
+    
 };
