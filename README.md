@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0136-single-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
