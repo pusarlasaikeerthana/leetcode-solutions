@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0136-single-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
