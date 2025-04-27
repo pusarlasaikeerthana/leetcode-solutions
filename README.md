@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0178-rank-scores) |
+| [2024-calculate-special-bonus](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2127-employees-whose-manager-left-the-company) |
