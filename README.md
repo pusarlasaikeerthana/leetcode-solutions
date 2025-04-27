@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
