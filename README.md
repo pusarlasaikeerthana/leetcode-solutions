@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0136-single-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3803-find-products-with-valid-serial-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
