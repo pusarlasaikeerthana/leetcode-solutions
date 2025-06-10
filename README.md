@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -65,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Simulation
