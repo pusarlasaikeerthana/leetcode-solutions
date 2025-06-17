@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0268-missing-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
