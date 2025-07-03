@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0055-jump-game) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/pusarlasaikeerthana/leetcode-solutions/tree/master/0338-counting-bits) |
